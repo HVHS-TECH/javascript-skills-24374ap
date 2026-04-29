@@ -1,1 +1,4 @@
-/* Paste your code from task 1 here */
+variables=adhil
+variables age=13;
+variables isstudent=true;
+variables clothes=

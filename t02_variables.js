@@ -1,4 +1,4 @@
 variables=adhil
-variables age=13;
+variables age=10;
 variables isstudent=true;
 variables clothes=

@@ -10,3 +10,4 @@ var userName ='adhil';
 
 //MAIN CODE
 console.log('hi ' + userName)
+console.log()

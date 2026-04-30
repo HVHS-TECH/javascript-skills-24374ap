@@ -9,3 +9,4 @@ console.log("Running t02_VARIABIES.js")
 var userName ='adhil';
 
 //MAIN CODE
+console.log('hi ' + userName)

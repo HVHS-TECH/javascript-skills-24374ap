@@ -10,6 +10,7 @@ var userName ='adhil';
 var youareage =15;
 var pocktemoney=2000;
 var currentyear=11;
+var 
 //MAIN CODE
 console.log('hi ' + userName)
 console.log('you are' + youareage)

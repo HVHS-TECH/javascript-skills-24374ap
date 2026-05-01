@@ -10,4 +10,4 @@ var userName ='adhil';
 var youareage =15;
 //MAIN CODE
 console.log('hi ' + userName)
-console.log(youAreAge+age)
+console.log('youAreAge'+age)

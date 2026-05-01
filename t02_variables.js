@@ -14,4 +14,4 @@ var currentyear=11;
 console.log('hi ' + userName)
 console.log('you are' + youareage)
 console.log('pockte money' +pocktemoney)
-console.log('current year'+current)
+console.log('current year'+currentyear)

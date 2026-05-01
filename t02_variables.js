@@ -7,7 +7,6 @@ console.log("Running t02_VARIABIES.js")
 // variables
 
 var userName ='adhil';
-
-//MAIN CODE
-console.log('hi ' + userName)
 var youareage =15;
+//MAIN CODE
+console.log('hi ' + userNa

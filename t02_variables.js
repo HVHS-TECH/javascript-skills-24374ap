@@ -6,6 +6,7 @@ console.log("Running t02_VARIABIES.js")
 
 // variables
 
+
 var userName ='adhil';
 var youareage =15;
 var pocktemoney=2000;

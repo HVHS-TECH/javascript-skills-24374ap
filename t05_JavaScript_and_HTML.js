@@ -1,7 +1,7 @@
 /****************************
 Name of task:5
 ****************************/
-console.log("")
+console.log("Running task 05")
 
 
 // variables

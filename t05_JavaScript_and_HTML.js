@@ -1,7 +1,7 @@
 /****************************
 Name of task:5
 ****************************/
-console.log("Running t02_VARIABIES.js")
+console.log("")
 
 
 // variables

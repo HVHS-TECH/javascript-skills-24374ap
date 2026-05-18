@@ -3,8 +3,8 @@ const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
 OUTPUT.innerHTML = "<h2>hi ryan</h2>";
 /* Paste your code from task 5 here */
 
-function writeline(){
+function writeline(_name){
     // Add aline to the html page
-    OUTPUT.innerHTML += "<h2>hi ryan</h2>";
+    OUTPUT.innerHTML += "<p>welcome to the page"+_name+" </p>";
 }
 writeline()

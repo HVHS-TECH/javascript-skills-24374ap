@@ -7,4 +7,4 @@ function writeline(_name){
     // Add aline to the html page
     OUTPUT.innerHTML += "<p>welcome to the page"+_name+" </p>";
 }
-writeline()
+writeline("Mr Bob");

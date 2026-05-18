@@ -8,3 +8,4 @@ function writeline(_name){
     OUTPUT.innerHTML += "<p>welcome to the page"+_name+" </p>";
 }
 writeline("Mr Bob");
+writeline("Mr Bob");

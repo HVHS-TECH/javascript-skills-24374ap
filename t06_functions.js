@@ -6,3 +6,4 @@ function writeline(){
     // Add aline to the html page
     OUTPUT.innerHTML += "<h2>hi ryan</h2>";
 }
+writeline()

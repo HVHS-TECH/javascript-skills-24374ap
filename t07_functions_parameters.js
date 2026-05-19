@@ -12,3 +12,4 @@ writeline("Ms alice ");
 function displaywelcome(_name,_age){
     OUTPUT.innerHTML +="<p>welcome to the page"+_name+"</p>";
     OUTPUT.innerHTML +="<p>you are"+_age+" years old</p>";
+}

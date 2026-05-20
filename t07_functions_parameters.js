@@ -13,5 +13,5 @@ function displaywelcome(_name,_age){
     OUTPUT.innerHTML +="<p>welcome to the page"+_name+"</p>";
     OUTPUT.innerHTML +="<p>you are"+_age+" years old</p>";
 }
-displayWelcome("Ms Alice", 16);
-displayWelcome("Mr Bob", 99);
+displaywelcome("Ms Alice", 16);
+displaywelcome("Mr Bob", 99);

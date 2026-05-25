@@ -15,3 +15,9 @@ function displaywelcome(_name,_age){
 }
 displaywelcome("Ms Alice", 16);
 displaywelcome("Mr Bob", 99);
+function start() {
+  spaceForJavaScriptOutput.innerHTML
+  spaceForJavaScriptOutput.innerHTML
+  answer = currentyear-userAeg;
+  spaceForJavaScriptOutput.innerHTML
+}

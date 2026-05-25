@@ -15,3 +15,4 @@ function displaywelcome(_name,_age){
 }
 displaywelcome("Ms Alice", 16);
 displaywelcome("Mr Bob", 99);
+<button onClick="start()">START</button>

@@ -18,4 +18,6 @@ function start() {
     displaywelcome("Ms Alice", 16);
     displaywelcome("Mr Bob", 99);
 }
+const NAME_FIELD = document.getElementById("nameField");
+let userName = NAME_FIELD.value;
 
